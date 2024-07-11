@@ -1,0 +1,168 @@
+{
+  "apiMeme": [
+    {
+      "id": "01",
+      "image": "/images/AI_taking_jobs.jpeg"
+    },
+    {
+      "id": "02",
+      "image": "/images/bearinforrest.jpg"
+    },
+    {
+      "id": "03",
+      "image": "/images/billgates.jpg"
+    },
+    {
+      "id": "04",
+      "image": "/images/breakingbad.jpg"
+    },
+    {
+      "id": "05",
+      "image": "/images/centrarDiv.jpg"
+    },
+    {
+      "id": "06",
+      "image": "/images/claves.jfif"
+    },
+    {
+      "id": "07",
+      "image": "/images/cliente-jefe-proy.jfif"
+    },
+    {
+      "id": "08",
+      "image": "/images/codigopropio.jpg"
+    },
+    {
+      "id": "09",
+      "image": "/images/contratando.jpg"
+    },
+    {
+      "id": "10",
+      "image": "/images/cybersec.jpg"
+    },
+    {
+      "id": "11",
+      "image": "/images/Daily.jpg"
+    },
+    {
+      "id": "12",
+      "image": "/images/DBdeleted.jpg"
+    },
+    {
+      "id": "13",
+      "image": "/images/dev-vs-test.jpg"
+    },
+    {
+      "id": "14",
+      "image": "/images/devslatinos.jfif"
+    },
+    {
+      "id": "15",
+      "image": "/images/dinosStandUp.jpg"
+    },
+    {
+      "id": "16",
+      "image": "/images/discussions.jpg"
+    },
+    {
+      "id": "17",
+      "image": "/images/do-vs-while-meme.jpg"
+    },
+    {
+      "id": "18",
+      "image": "/images/dontlookup_regex.jpg"
+    },
+    {
+      "id": "19",
+      "image": "/images/emergency.jpg"
+    },
+    {
+      "id": "20",
+      "image": "/images/git--force.jpg"
+    },
+    {
+      "id": "21",
+      "image": "/images/git--force2.jpg"
+    },
+    {
+      "id": "22",
+      "image": "/images/interview.jpg"
+    },
+    {
+      "id": "23",
+      "image": "/images/italian_datacenter.jpg"
+    },
+    {
+      "id": "24",
+      "image": "/images/JS-suckes.jpg"
+    },
+    {
+      "id": "25",
+      "image": "/images/mates.jpg"
+    },
+    {
+      "id": "26",
+      "image": "/images/meme-cambio-laboral.jpg"
+    },
+    {
+      "id": "27",
+      "image": "/images/meme-explota.jfif"
+    },
+    {
+      "id": "28",
+      "image": "/images/meme-PO.jfif"
+    },
+    {
+      "id": "29",
+      "image": "/images/meme-release-day.jfif"
+    },
+    {
+      "id": "30",
+      "image": "/images/meme20minutos.jpg"
+    },
+    {
+      "id": "31",
+      "image": "/images/memeatwork.jpeg"
+    },
+    {
+      "id": "32",
+      "image": "/images/nodeployfriday.jpg"
+    },
+    {
+      "id": "33",
+      "image": "/images/noimage.jpg"
+    },
+    {
+      "id": "34",
+      "image": "/images/perrito-hacker.jfif"
+    },
+    {
+      "id": "35",
+      "image": "/images/pingüinosFibonacci.jpg"
+    },
+    {
+      "id": "36",
+      "image": "/images/PR-tira-production.jpg"
+    },
+    {
+      "id": "37",
+      "image": "/images/regexp.jpg"
+    },
+    {
+      "id": "38",
+      "image": "/images/reinstalar.jpg"
+    },
+    {
+      "id": "39",
+      "image": "/images/robotsengaleria.jpg"
+    },
+    {
+      "id": "40",
+      "image": "/images/server_down.jpg"
+    },
+    {
+      "id": "40",
+      "image": "/images/simpsons-devs.jpg"
+    }
+  ]
+}
