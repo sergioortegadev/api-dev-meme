@@ -7,6 +7,7 @@ import {
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { join } from 'path';
+import { LoggerMiddleware } from './logger.middleware';
 
 @Module({
   imports: [],
@@ -15,6 +16,8 @@ import { join } from 'path';
 })
 export class AppModule implements NestModule {
   configure(consumer: MiddlewareConsumer) {
+    consumer.apply(LoggerMiddleware).forRoutes('*');
+
     consumer
       .apply((req, res, next) => {
         const filePath = join(__dirname, '..', '..', 'images', 'index.html');
